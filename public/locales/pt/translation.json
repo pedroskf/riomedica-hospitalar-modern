@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Inovação e Qualidade em Saúde",
+    "subtitle": "Produtos médicos certificados para hospitais e profissionais de saúde.",
+    "cta": "Fale Conosco"
+  },
+  "products": {
+    "title": "Nossos Produtos",
+    "desc": "Soluções inovadoras para cirurgia vascular e endoscopia."
+  },
+  "about": {
+    "title": "Sobre a Rio Médica Hospitalar",
+    "desc": "Compromisso com a excelência, inovação e suporte técnico especializado."
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "send": "Enviar"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  }
+}
