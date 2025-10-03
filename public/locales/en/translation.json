@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Innovation and Quality in Healthcare",
+    "subtitle": "Certified medical products for hospitals and healthcare professionals.",
+    "cta": "Contact Us"
+  },
+  "products": {
+    "title": "Our Products",
+    "desc": "Innovative solutions for vascular surgery and endoscopy."
+  },
+  "about": {
+    "title": "About Rio Médica Hospitalar",
+    "desc": "Commitment to excellence, innovation, and specialized technical support."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
